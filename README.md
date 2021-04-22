@@ -1,5 +1,7 @@
 Dictmixer - Dictionary mix tool
 ===
+## Dictmixer使用环境
+  Python3
 ## Dictmixer功能
   将两个字典文件进行对比，去除两个字典中相同的条目，生成新字典。<br>
   只要是行格式的文本，都可以将两个文件对比后生成新文件，比如目录字典。
